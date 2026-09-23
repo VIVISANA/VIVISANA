@@ -1,4 +1,16 @@
-## Hi there 👋
+AKHILA S
+VIVISANA · she/her
+
+Data Analytics | Machine Learning | Python | SQL | Power BI
+Building practical data & ML projects
+
+------------------------------------------------
+
+Hi, I'm Akhila S 👋
+
+Data Analytics | Machine Learning | Python | SQL | Power BI
+
+I'm interested in building practical data-driven solutions...
 
 <!--
 **VIVISANA/VIVISANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
